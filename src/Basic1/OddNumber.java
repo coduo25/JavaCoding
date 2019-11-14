@@ -1,4 +1,4 @@
-//48
+//Exercise 48
 package Basic1;
 
 public class OddNumber {
