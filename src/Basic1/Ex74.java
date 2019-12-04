@@ -9,7 +9,7 @@ public class Ex74 {
 		int[] number = {10, -20, 0, 30, 40, 60, 10};
 
 		System.out.println(number[0] == 10 || number[number.length-1] == 10);
-	
+	  
 	}
 
 }
